@@ -15,9 +15,9 @@
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
+* type $ npm init -y
+* type $ npm install webpack@4.39.3 --save-dev --save-exact
+* type $ npm install webpack-cli@3.3.8 --save-dev
 * _easy-to-understand_
 * _format_
 
